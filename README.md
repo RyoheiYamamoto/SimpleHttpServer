@@ -1,5 +1,5 @@
 ## 起動方法
-`SimpleJavaHTTPServer` をrunする
+`SimpleJavaHTTPServer.java` をrunする
 
 ## サーバー実装フローについて
 issuesの各STEPにしたがって、実装を進める
