@@ -33,6 +33,10 @@
 
 他に必要だと感じる観点があれば、レビュワーが随時アップデートを行う
 
+## HTTPサーバー実装のルール
+4期エンジニア向けには以下のように共有している
+https://github.com/RyoheiYamamoto/SimpleHttpServer/wiki
+
 ## 参考資料
 ### HTTP1.1について
 https://triple-underscore.github.io/RFC723X-ja.html
