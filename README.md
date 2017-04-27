@@ -14,7 +14,7 @@
     - Assignees: 実装者
     - Comment: 各ステップのissue番号を記載(STEP1 なら #1)
 4. Slackで実装者がレビュワーにプルリク作成の旨を通知
-    - チャネル: #zzz_17training_server
+    - チャネル: #zzz_17training_http
     - 形式: メンション付きでレビュー依頼を出す
       - 例: @ryohei.yamamoto STEP8のレビューをお願いします。
 5. レビュワーはレビューを行い、コメントを残す
